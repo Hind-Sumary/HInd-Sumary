@@ -7,11 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hind-Sumary&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hind-Sumary&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Hind-Sumary&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hind-Sumary&icon=0&color=0)](https://visitcount.itsvg.in)
